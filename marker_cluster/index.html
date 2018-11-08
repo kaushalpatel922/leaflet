@@ -11,11 +11,19 @@
 <body>
 	<h2>Leaflet Clustered Map</h2>
   <div id="map" style="width: 800px; height: 500px"></div>
-  <script src="https://cdn.leafletjs.com/leaflet-0.6.2/leaflet.js"></script>    
+	<script src="http://cdn.leafletjs.com/leaflet-0.6.2/leaflet.js"></script>    
+	<!-- <script src="https://unpkg.com/leaflet@1.3.4/dist/leaflet.js"
+	integrity="sha512-nMMmRyTVoLYqjP9hrbed9S+FzjZHW5gY1TWCHA5ckwXZBadntCNs8kEqAWdrb9O7rxbCaA4lKTIWjDXZxflOcA=="
+	crossorigin=""></script> -->
   <script src="points_rand.js"></script>
   <script src="leaflet.markercluster-src.js"></script>
   <script>
-	var map = L.map('map').setView([34.505, -104.09], 3);
+	var Heliophysics = L.layerGroup();
+  var Astrophysics = L.layerGroup();
+
+	var map = L.map('map', {
+		layers: [Astrophysics, Heliophysics]
+	}).setView([34.505, -104.09], 3);
 	// L.tileLayer('http://{s}.www.toolserver.org/tiles/bw-mapnik/{z}/{x}/{y}.png').addTo(map); //will be our basemap.
 	L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
     attribution: '&copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors'
@@ -24,8 +32,10 @@
 	var points_rand = L.geoJson(points, {
 		onEachFeature: function (feature, layer) //functionality on click on feature
 			{
-			layer.bindPopup(feature.geometry.text); //just to show something in the popup. could be part of the geojson as well!
-			console.log(feature.geometry.text)
+			layer.bindPopup(feature.geometry.text)
+			// layer.addTo(Heliophysics) //just to show something in the popup. could be part of the geojson as well!
+			
+			console.log(feature.geometry.text, feature.geometry.department)
 			}
 		});
 
@@ -33,6 +43,13 @@
 	markers.addLayer(points_rand); // add it to the cluster group
 	map.addLayer(markers);		// add it to the map
 	// map.fitBounds(markers.getBounds()); //set view on the cluster extend
+
+	var overlays = {
+		"Heliophysics": Heliophysics,
+    "Astrophysics": Astrophysics,
+	};
+
+	L.control.layers(overlays).addTo(map);
 	
   </script>
  </body>

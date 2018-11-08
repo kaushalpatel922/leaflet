@@ -23,7 +23,8 @@ var points = [{
             -122.084917,
             37.423156
           ],
-          "text": "Hello World1"
+          "text": "Hello World1",
+          "department": "Astrophysics"
         }
       },
       {
@@ -35,7 +36,8 @@ var points = [{
             -83.74379,
             42.280119
           ],
-          "text": "Hello World2"
+          "text": "Hello World2",
+          "department": "Heliophysics"
         }
       },
       {
@@ -47,7 +49,8 @@ var points = [{
             -84.387392,
             33.781484
           ],
-          "text": "Hello World3"
+          "text": "Hello World3",
+          "department": "Heliophysics"
         }
       },
       {
@@ -59,7 +62,8 @@ var points = [{
             -97.736708,
             30.386272
           ],
-          "text": "Hello World4"
+          "text": "Hello World4",
+          "department": "Heliophysics"
         }
       },
       {
@@ -71,7 +75,8 @@ var points = [{
             -105.261166,
             40.021563
           ],
-          "text": "Hello World5"
+          "text": "Hello World5",
+          "department": "Heliophysics"
         }
       },
       {
@@ -83,7 +88,8 @@ var points = [{
             -71.087422,
             42.362809
           ],
-          "text": "Hello World6"
+          "text": "Hello World6",
+          "department": "Heliophysics"
         }
       },
       {
@@ -95,7 +101,8 @@ var points = [{
             -87.628756,
             41.889244
           ],
-          "text": "Hello World7"
+          "text": "Hello World7",
+          "department": "Heliophysics"
         }
       },
       {
@@ -107,7 +114,8 @@ var points = [{
             -83.215578,
             42.548133
           ],
-          "text": "Hello World8"
+          "text": "Hello World8",
+          "department": "Heliophysics"
         }
       },
       {
@@ -119,7 +127,8 @@ var points = [{
             -117.860212,
             33.659782
           ],
-          "text": "Hello World9"
+          "text": "Hello World9",
+          "department": "Heliophysics"
         }
       },
       {
@@ -131,7 +140,8 @@ var points = [{
             -122.196701,
             47.670127
           ],
-          "text": "Hello World10"
+          "text": "Hello World10",
+          "department": "Heliophysics"
         }
       },
       {
@@ -143,7 +153,8 @@ var points = [{
             -89.373651,
             43.077665
           ],
-          "text": "Hello World11"
+          "text": "Hello World11",
+          "department": "Heliophysics"
         }
       },
       {
@@ -155,7 +166,8 @@ var points = [{
             -74.004624,
             40.741962
           ],
-          "text": "Hello World12"
+          "text": "Hello World12",
+          "department": "Heliophysics"
         }
       },
       {
@@ -167,7 +179,8 @@ var points = [{
             -74.004915,
             40.742412
           ],
-          "text": "Hello World13"
+          "text": "Hello World13",
+          "department": "Heliophysics"
         }
       },
       {
@@ -179,7 +192,8 @@ var points = [{
             -74.004915,
             40.742412
           ],
-          "text": "Hello World14"
+          "text": "Hello World14",
+          "department": "Heliophysics"
         }
       },
       {
@@ -191,7 +205,8 @@ var points = [{
             -79.916085,
             40.456711
           ],
-          "text": "Hello World15"
+          "text": "Hello World15",
+          "department": "Heliophysics"
         }
       },
       {
@@ -203,7 +218,8 @@ var points = [{
             -77.358534,
             38.958408
           ],
-          "text": "Hello World16"
+          "text": "Hello World16",
+          "department": "Heliophysics"
         }
       },
       {
@@ -215,7 +231,8 @@ var points = [{
             -122.390576,
             37.789904
           ],
-          "text": "Hello World17"
+          "text": "Hello World17",
+          "department": "Heliophysics"
         }
       },
       {
@@ -227,7 +244,8 @@ var points = [{
             -118.477035,
             33.995337
           ],
-          "text": "Hello World18"
+          "text": "Hello World18",
+          "department": "Heliophysics"
         }
       },
       {
@@ -239,7 +257,8 @@ var points = [{
             -122.350509,
             47.649041
           ],
-          "text": "Hello World19"
+          "text": "Hello World19",
+          "department": "Heliophysics"
         }
       },
       {
@@ -251,7 +270,8 @@ var points = [{
             -77.027636,
             38.901654
           ],
-          "text": "Hello World20"
+          "text": "Hello World20",
+          "department": "Heliophysics"
         }
       },
       {
@@ -263,7 +283,8 @@ var points = [{
             -74.004915,
             40.742412
           ],
-          "text": "Hello World21"
+          "text": "Hello World21",
+          "department": "Heliophysics"
         }
       },
       {
@@ -275,7 +296,8 @@ var points = [{
             -79.916085,
             40.456711
           ],
-          "text": "Hello World22"
+          "text": "Hello World22",
+          "department": "Heliophysics"
         }
       },
       {
@@ -287,7 +309,8 @@ var points = [{
             -77.358534,
             38.958408
           ],
-          "text": "Hello World23"
+          "text": "Hello World23",
+          "department": "Heliophysics"
         }
       },
       {
@@ -299,7 +322,8 @@ var points = [{
             -122.390576,
             37.789904
           ],
-          "text": "Hello World24"
+          "text": "Hello World24",
+          "department": "Heliophysics"
         }
       },
       {
@@ -311,7 +335,8 @@ var points = [{
             -118.477035,
             33.995337
           ],
-          "text": "Hello World25"
+          "text": "Hello World25",
+          "department": "Heliophysics"
         }
       },
       {
@@ -323,7 +348,8 @@ var points = [{
             -122.350509,
             47.649041
           ],
-          "text": "Hello World26"
+          "text": "Hello World26",
+          "department": "Heliophysics"
         }
       },
       {
@@ -335,7 +361,8 @@ var points = [{
             -77.027636,
             38.901654
           ],
-          "text": "Hello World27"
+          "text": "Hello World27",
+          "department": "Heliophysics"
         }
       },
       {
@@ -347,7 +374,8 @@ var points = [{
             151.195521,
             -33.866674
           ],
-          "text": "Hello World28"
+          "text": "Hello World28",
+          "department": "Heliophysics"
         }
       },
       {
@@ -359,7 +387,8 @@ var points = [{
             100.542669,
             13.747285
           ],
-          "text": "Hello World29"
+          "text": "Hello World29",
+          "department": "Heliophysics"
         }
       },
       {
@@ -371,7 +400,8 @@ var points = [{
             116.329508,
             39.994021
           ],
-          "text": "Hello World30"
+          "text": "Hello World30",
+          "department": "Heliophysics"
         }
       },
       {
@@ -383,7 +413,8 @@ var points = [{
             113.322574,
             23.150018
           ],
-          "text": "Hello World31"
+          "text": "Hello World31",
+          "department": "Heliophysics"
         }
       },
       {
@@ -395,7 +426,8 @@ var points = [{
             121.507687,
             31.234573
           ],
-          "text": "Hello World32"
+          "text": "Hello World32",
+          "department": "Heliophysics"
         }
       },
       {
@@ -407,7 +439,8 @@ var points = [{
             114.182842,
             22.278563
           ],
-          "text": "Hello World33"
+          "text": "Hello World33",
+          "department": "Heliophysics"
         }
       },
       {
@@ -419,7 +452,8 @@ var points = [{
             77.660471,
             12.99343
           ],
-          "text": "Hello World34"
+          "text": "Hello World34",
+          "department": "Heliophysics"
         }
       },
       {
@@ -431,7 +465,8 @@ var points = [{
             77.095184,
             28.523003
           ],
-          "text": "Hello World35"
+          "text": "Hello World35",
+          "department": "Heliophysics"
         }
       },
       {
@@ -443,7 +478,8 @@ var points = [{
             78.372452,
             17.458359
           ],
-          "text": "Hello World36"
+          "text": "Hello World36",
+          "department": "Heliophysics"
         }
       },
       {
@@ -455,7 +491,8 @@ var points = [{
             72.835772,
             18.929407
           ],
-          "text": "Hello World37"
+          "text": "Hello World37",
+          "department": "Heliophysics"
         }
       },
       {
@@ -467,7 +504,8 @@ var points = [{
             139.729013,
             35.660434
           ],
-          "text": "Hello World38"
+          "text": "Hello World38",
+          "department": "Heliophysics"
         }
       },
       {
@@ -479,7 +517,8 @@ var points = [{
             126.984787,
             37.527698
           ],
-          "text": "Hello World39"
+          "text": "Hello World39",
+          "department": "Heliophysics"
         }
       },
       {
@@ -491,7 +530,8 @@ var points = [{
             103.850992,
             1.2792
           ],
-          "text": "Hello World40"
+          "text": "Hello World40",
+          "department": "Heliophysics"
         }
       },
       {
@@ -503,7 +543,8 @@ var points = [{
             121.564804,
             25.033685
           ],
-          "text": "Hello World41"
+          "text": "Hello World41",
+          "department": "Heliophysics"
         }
       },
       {
@@ -515,7 +556,8 @@ var points = [{
             101.717461,
             3.160474
           ],
-          "text": "Hello World42"
+          "text": "Hello World42",
+          "department": "Heliophysics"
         }
       },
       {
@@ -527,7 +569,8 @@ var points = [{
             4.380777,
             50.838414
           ],
-          "text": "Hello World43"
+          "text": "Hello World43",
+          "department": "Heliophysics"
         }
       },
       {
@@ -539,7 +582,8 @@ var points = [{
             14.402671,
             50.070312
           ],
-          "text": "Hello World44"
+          "text": "Hello World44",
+          "department": "Heliophysics"
         }
       },
       {
@@ -551,7 +595,8 @@ var points = [{
             10.187759,
             56.172173
           ],
-          "text": "Hello World45"
+          "text": "Hello World45",
+          "department": "Heliophysics"
         }
       },
       {
@@ -563,7 +608,8 @@ var points = [{
             12.570162,
             55.680691
           ],
-          "text": "Hello World46"
+          "text": "Hello World46",
+          "department": "Heliophysics"
         }
       },
       {
@@ -575,7 +621,8 @@ var points = [{
             24.941001,
             60.168149
           ],
-          "text": "Hello World47"
+          "text": "Hello World47",
+          "department": "Heliophysics"
         }
       },
       {
@@ -587,7 +634,8 @@ var points = [{
             25.509665,
             65.009612
           ],
-          "text": "Hello World48"
+          "text": "Hello World48",
+          "department": "Heliophysics"
         }
       },
       {
@@ -599,7 +647,8 @@ var points = [{
             2.332771,
             48.870022
           ],
-          "text": "Hello World49"
+          "text": "Hello World49",
+          "department": "Heliophysics"
         }
       },
       {
@@ -611,7 +660,8 @@ var points = [{
             -0.194291,
             5.564545
           ],
-          "text": "Hello World50"
+          "text": "Hello World50",
+          "department": "Heliophysics"
         }
       },
       {
@@ -623,7 +673,8 @@ var points = [{
             9.986089,
             53.554058
           ],
-          "text": "Hello World"
+          "text": "Hello World",
+          "department": "Heliophysics"
         }
       },
       {
@@ -635,7 +686,8 @@ var points = [{
             11.577315,
             48.138728
           ],
-          "text": "Hello World51"
+          "text": "Hello World51",
+          "department": "Heliophysics"
         }
       },
       {
@@ -647,7 +699,8 @@ var points = [{
             23.760166,
             37.984782
           ],
-          "text": "Hello World52"
+          "text": "Hello World52",
+          "department": "Heliophysics"
         }
       },
       {
@@ -659,7 +712,8 @@ var points = [{
             19.039993,
             47.528503
           ],
-          "text": "Hello World53"
+          "text": "Hello World53",
+          "department": "Heliophysics"
         }
       },
       {
@@ -671,7 +725,8 @@ var points = [{
             -6.236458,
             53.339855
           ],
-          "text": "Hello World54"
+          "text": "Hello World54",
+          "department": "Heliophysics"
         }
       },
       {
@@ -683,7 +738,8 @@ var points = [{
             9.1959,
             45.464525
           ],
-          "text": "Hello World55"
+          "text": "Hello World55",
+          "department": "Heliophysics"
         }
       },
       {
@@ -695,7 +751,8 @@ var points = [{
             4.891491,
             52.376018
           ],
-          "text": "Hello World56"
+          "text": "Hello World56",
+          "department": "Heliophysics"
         }
       },
       {
@@ -707,7 +764,8 @@ var points = [{
             3.429044,
             6.449441
           ],
-          "text": "Hello World57"
+          "text": "Hello World57",
+          "department": "Heliophysics"
         }
       },
       {
@@ -719,7 +777,8 @@ var points = [{
             10.71899,
             59.914395
           ],
-          "text": "Hello World58"
+          "text": "Hello World58",
+          "department": "Heliophysics"
         }
       },
       {
@@ -731,7 +790,8 @@ var points = [{
             21.002032,
             52.233585
           ],
-          "text": "Hello World59"
+          "text": "Hello World59",
+          "department": "Heliophysics"
         }
       },
       {
@@ -743,7 +803,8 @@ var points = [{
             19.937943,
             50.060466
           ],
-          "text": "Hello World60"
+          "text": "Hello World60",
+          "department": "Heliophysics"
         }
       },
       {
@@ -755,7 +816,8 @@ var points = [{
             17.041984,
             51.116967
           ],
-          "text": "Hello World61"
+          "text": "Hello World61",
+          "department": "Heliophysics"
         }
       },
       {
@@ -767,7 +829,8 @@ var points = [{
             -9.138222,
             38.718767
           ],
-          "text": "Hello World62"
+          "text": "Hello World62",
+          "department": "Heliophysics"
         }
       },
       {
@@ -779,7 +842,8 @@ var points = [{
             37.626355,
             55.746665
           ],
-          "text": "Hello World63"
+          "text": "Hello World63",
+          "department": "Heliophysics"
         }
       },
       {
@@ -791,7 +855,8 @@ var points = [{
             30.081505,
             59.831581
           ],
-          "text": "Hello World64"
+          "text": "Hello World64",
+          "department": "Heliophysics"
         }
       },
       {
@@ -803,7 +868,8 @@ var points = [{
             -3.692996,
             40.450316
           ],
-          "text": "Hello World65"
+          "text": "Hello World65",
+          "department": "Heliophysics"
         }
       },
       {
@@ -815,7 +881,8 @@ var points = [{
             -17.428243160248,
             14.672123651772
           ],
-          "text": "Hello World66"
+          "text": "Hello World66",
+          "department": "Heliophysics"
         }
       },
       {
@@ -827,7 +894,8 @@ var points = [{
             18.052533,
             59.332752
           ],
-          "text": "Hello World67"
+          "text": "Hello World67",
+          "department": "Heliophysics"
         }
       },
       {
@@ -839,7 +907,8 @@ var points = [{
             8.526496,
             47.365404
           ],
-          "text": "Hello World68"
+          "text": "Hello World68",
+          "department": "Heliophysics"
         }
       },
       {
@@ -851,7 +920,8 @@ var points = [{
             30.522557,
             50.460199
           ],
-          "text": "Hello World69"
+          "text": "Hello World69",
+          "department": "Heliophysics"
         }
       },
       {
@@ -863,7 +933,8 @@ var points = [{
             -0.146663,
             51.495238
           ],
-          "text": "Hello World70"
+          "text": "Hello World70",
+          "department": "Heliophysics"
         }
       },
       {
@@ -875,7 +946,8 @@ var points = [{
             -0.146725,
             51.49355
           ],
-          "text": "Hello World71"
+          "text": "Hello World71",
+          "department": "Heliophysics"
         }
       },
       {
@@ -887,7 +959,8 @@ var points = [{
             -0.127474,
             51.515953
           ],
-          "text": "Hello World72"
+          "text": "Hello World72",
+          "department": "Heliophysics"
         }
       },
       {
@@ -899,7 +972,8 @@ var points = [{
             -2.243872,
             53.476962
           ],
-          "text": "Hello World73"
+          "text": "Hello World73",
+          "department": "Heliophysics"
         }
       },
       {
@@ -911,7 +985,8 @@ var points = [{
             -73.570697,
             45.502256
           ],
-          "text": "Hello World74"
+          "text": "Hello World74",
+          "department": "Heliophysics"
         }
       },
       {
@@ -923,7 +998,8 @@ var points = [{
             -79.38048,
             43.65647
           ],
-          "text": "Hello World75"
+          "text": "Hello World75",
+          "department": "Heliophysics"
         }
       },
       {
@@ -935,7 +1011,8 @@ var points = [{
             -80.498999,
             43.451382
           ],
-          "text": "Hello World76"
+          "text": "Hello World76",
+          "department": "Heliophysics"
         }
       },
       {
@@ -947,7 +1024,8 @@ var points = [{
             -58.4198,
             -34.563121
           ],
-          "text": "Hello World"
+          "text": "Hello World",
+          "department": "Heliophysics"
         }
       },
       {
@@ -959,7 +1037,8 @@ var points = [{
             -43.940782,
             -19.929556
           ],
-          "text": "Hello World77"
+          "text": "Hello World77",
+          "department": "Heliophysics"
         }
       },
       {
@@ -971,7 +1050,8 @@ var points = [{
             -46.681702,
             -23.590035
           ],
-          "text": "Hello World78"
+          "text": "Hello World78",
+          "department": "Heliophysics"
         }
       },
       {
@@ -983,7 +1063,8 @@ var points = [{
             -99.203582,
             19.427623
           ],
-          "text": "Hello World80"
+          "text": "Hello World80",
+          "department": "Heliophysics"
         }
       },
       {
@@ -995,7 +1076,8 @@ var points = [{
             -74.075833,
             4.5980556
           ],
-          "text": "Hello World81"
+          "text": "Hello World81",
+          "department": "Heliophysics"
         }
       },
       {
@@ -1007,7 +1089,8 @@ var points = [{
             31.227608,
             30.064043
           ],
-          "text": "Hello World82"
+          "text": "Hello World82",
+          "department": "Heliophysics"
         }
       },
       {
@@ -1019,7 +1102,8 @@ var points = [{
             34.95833,
             32.789155
           ],
-          "text": "Hello World83"
+          "text": "Hello World83",
+          "department": "Heliophysics"
         }
       },
       {
@@ -1031,7 +1115,8 @@ var points = [{
             34.779748,
             32.063883
           ],
-          "text": "Hello World84"
+          "text": "Hello World84",
+          "department": "Heliophysics"
         }
       },
       {
@@ -1043,7 +1128,8 @@ var points = [{
             29.010086,
             41.083492
           ],
-          "text": "Hello World85"
+          "text": "Hello World85",
+          "department": "Heliophysics"
         }
       },
       {
@@ -1055,7 +1141,8 @@ var points = [{
             55.307407,
             25.271709
           ],
-          "text": "Hello World86"
+          "text": "Hello World86",
+          "department": "Heliophysics"
         }
       },
       {
@@ -1067,7 +1154,8 @@ var points = [{
             28.021946,
             -26.041773
           ],
-          "text": "Hello World87"
+          "text": "Hello World87",
+          "department": "Heliophysics"
         }
       },
       {
@@ -1079,7 +1167,8 @@ var points = [{
             36.811569,
             -1.270102
           ],
-          "text": "Hello World88"
+          "text": "Hello World88",
+          "department": "Heliophysics"
         }
       },
       {
@@ -1091,7 +1180,8 @@ var points = [{
             32.581898,
             0.330134
           ],
-          "text": "Hello World89"
+          "text": "Hello World89",
+          "department": "Heliophysics"
         }
       },
       {
@@ -1103,8 +1193,129 @@ var points = [{
             174.765487,
             -36.843048
           ],
-          "text": "Hello World90"
+          "text": "Hello World90",
+          "department": "Heliophysics"
         }
-      }
+      },
+      {
+        "type": "Feature",
+        "id": 91,
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -76.84,
+            39.00
+          ],
+          "text": "NASA Goddard Space Flight Center1"
+        }
+      },
+      {
+        "type": "Feature",
+        "id": 92,
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -76.84,
+            39.00
+          ],
+          "text": "NASA Goddard Space Flight Center2"
+        }
+      },
+      {
+        "type": "Feature",
+        "id": 93,
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -76.84,
+            39.00
+          ],
+          "text": "NASA Goddard Space Flight Center3"
+        }
+      },
+      {
+        "type": "Feature",
+        "id": 94,
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -76.84,
+            39.00
+          ],
+          "text": "NASA Goddard Space Flight Center4"
+        }
+      },
+      {
+        "type": "Feature",
+        "id": 95,
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -76.84,
+            39.00
+          ],
+          "text": "NASA Goddard Space Flight Center5"
+        }
+      },
+      {
+        "type": "Feature",
+        "id": 96,
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -95.05,
+            29.56
+          ],
+          "text": "NASA Texas1"
+        }
+      },
+      {
+        "type": "Feature",
+        "id": 97,
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -95.05,
+            29.56
+          ],
+          "text": "NASA Texas2"
+        }
+      },
+      {
+        "type": "Feature",
+        "id": 98,
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -95.05,
+            29.56
+          ],
+          "text": "NASA Texas3"
+        }
+      },
+      {
+        "type": "Feature",
+        "id": 99,
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -95.05,
+            29.56
+          ],
+          "text": "NASA Texas4"
+        }
+      },
+      {
+        "type": "Feature",
+        "id": 100,
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -95.05,
+            29.56
+          ],
+          "text": "NASA Texas5"
+        }
+      },
     ]
   }]
